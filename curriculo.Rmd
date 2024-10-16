@@ -1,0 +1,209 @@
+---
+title: "Currículo - Walter Soares"
+author: Walter Soares
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+# Aside
+
+![](foto_perfil.png){width="198"}
+
+### Informações para Contato {#contact}
+
+-   <i class="fa fa-envelope"></i> [wsoares\@live.com](wsoares@live.com)
+-   <i class="fa fa-github"></i> [github.com/wsoaresjr](github.com/wsoaresjr)
+-   <i class="fa fa-phone"></i> (21) 97521-1127
+-   Para mais informações, por favor, contat-me por email ou telefone (Whatsapp).
+
+### Habilidades Técnicas {#skills}
+
+-   R, Python, SQL;
+
+-   Power BI, Looker Studio, Shiny, Streamlit;
+
+-   Algoritmos de Aprendizado de Máquina;
+
+-   Shiny, Streamlit;
+
+-   Processos de extração, transformação e carregamento de dados.
+
+## Disclaimer {#disclaimer}
+
+Esse currículo foi feito com R/[**pagedown**](https://github.com/rstudio/pagedown).
+
+Última atualização em `r Sys.Date()`.
+
+# Main
+
+## Walter Soares {#title}
+
+### 
+
+<p style="text-align: justify">Especialista em *Data Science e Analytics* com MBA pela USP/ESALq e com experiência de mais de 20 anos no setor educacional. Graduado em Ciência de Dados e Licenciatura em Matemática, atualmente cursando o Mestrado em Ciência de Dados pelo MECAI/USP. Possuo experiência em estatística, no desenvolvimento de aplicativos web. Desenvolvo pesquisas, com foco em Avaliações de Larga Escala, Teoria de Resposta ao Item e *Machine Learning*.</p>
+
+<p style="text-align: justify">Nas habilidades comportamentais destacam-se: Liderança e Gerenciamento de Equipes e Projetos; Comunicação clara e efetiva; Pensamento Analítico; Capacidade de adaptação e aprendizado contínuo; Disponibilidade para viagens.</p>
+
+## Formação Acadêmica {data-icon="graduation-cap" data-concise="true"}
+
+### Mestrado Profissional em Matemática, Estatística e Computação Aplicadas à Indústria (MECAI)
+
+Universidade de São Paulo/ICMC
+
+São Carlos, SP
+
+2024 - Atualmente
+
+### MBA em Data Science e Analytics
+
+Universidade de São Paulo/ESALq
+
+Piracicaba, SP
+
+2022 - 2024
+
+TCC: Plataforma de Teste Adaptativo para Avaliação em Larga Escala, utilizando *Machine Learning*
+
+### Graduação Tecnológica em Ciência de Dados
+
+Universidade Cruzeiro do Sul
+
+São Paulo, SP
+
+2020 - 2022
+
+### Graduação - Licenciatura em Matemática
+
+Universidade Federal do Rio de Janeiro
+
+Rio de Janeiro, RJ
+
+1998 - 2001
+
+## Experiência Profissional {data-icon="laptop"}
+
+### Fundador - Exploratória Digital
+
+Exploratória Digital - Consultoria em Dados
+
+São Paulo, SP
+
+2022 - Atualmente
+
+-   Consultoria em Análise de Dados, Ciência de Dados e Modelagem de Machine Learning;
+-   Desenvolvimento de dashboards interativos em R, Power BI e Python;
+-   Desenvolvimento de Aplicações Web com Shiny e Streamlit;
+-   Treinamento de equipes em ferramentas de análise de dados;
+-   Gestão de projetos e implementação de estratégias de dados.
+
+### Analista Pedagógico Pleno
+
+Instituto Sonho Grande
+
+São Paulo, SP
+
+2023 - 2024
+
+-   Suporte na implementação e melhoria de modelos pedagógicos em escolas de tempo integral;
+-   Análise e acompanhamento de indicadores de desempenho educacional;
+-   Desenvolvimento de relatórios de impacto e de ações pedagógicas.
+
+### Analista de Instrumentos de Avaliação
+
+Fundação CAEd
+
+Juiz de Fora, MG
+
+2017 - 2023
+
+-   Elaboração e revisão de instrumentos de avaliação para redes estaduais e municipais;
+-   Condução de estudos de padrões de qualidade em avaliações educacionais;
+-   Liderança da equipe de Matemática, com foco em resultados pedagógicos.
+
+### Coordenador de Apropriação dos Resultados das Avaliações Externas
+
+Secretaria de Estado de Educação-RJ
+
+Rio de Janeiro, RJ
+
+2013 - 2017
+
+-   Coordenação de análises dos resultados de avaliações de larga escala (ENEM, SAEB, PISA, SAERJ);
+-   Elaboração de diagnósticos sobre o desempenho escolar;
+-   Assessoria para implementação de ações de melhoria pedagógica.
+
+### Subcoordenador Estadual Logístico para o SAEB
+
+Cesgranrio, CAEd, Seeduc-RJ
+
+Rio de Janeiro, RJ
+
+2013 - 2015
+
+-   Responsável por apoiar o Coordenador estadual na elaboração do Plano de Logística da Aplicação da sua UF; Cumprir o cronograma das atividades; Orientar e monitorar o cadastramento no sistema de cadastro de colaboradores dos Coordenadores de Polo, da sua UF de atuação; Garantir o cumprimento das instruções por parte de todos de sua equipe; Prestar assessoria às escolas para esclarecimentos sobre o SAEB 2015.
+
+### Professor de Matemática
+
+Secretaria de Estado de Educação-RJ
+
+Rio de Janeiro, RJ
+
+2008 - 2024
+
+-   Planejamento e execução de atividades pedagógicas focadas no uso de dados para melhoria do desempenho escolar.
+
+## Certificações {data-icon="graduation-cap"}
+
+### **Gestão de Projetos** 
+
+Veduca/USP
+
+2024
+
+### **Product Owner** 
+
+Awari
+
+2023
+
+### **ETL e Análise de Dados em R** 
+
+Udemy
+
+2023
+
+### **Power BI e DAX** 
+
+Udemy
+
+2023
+
+### **Machine Learning in R**
+
+Udemy
+
+2021
+
+### **Desenvolvimento de Interfaces com Shiny em R**
+
+Udemy
+
+2020
+
+## Voluntariado {data-icon="graduation-cap"}
+
+### **Professor de Progração e Automação Educacional (Robótica)** 
+
+Projeto Social
+
+Piau, MG
+
+2022 - 2024
+
+-   Montagem de circuitos com microcontroladores: Arduíno e Raspberry Pi;
+-   Linguagens de Programação: C++, Python e R.
