@@ -205,5 +205,12 @@ Piau, MG
 
 2022 - 2024
 
+Tópicos Abordados:
+ 
+  
+  
+-   Algoritmos e Linguagem de Programação;
 -   Montagem de circuitos com microcontroladores: Arduíno e Raspberry Pi;
--   Linguagens de Programação: C++, Python e R.
+-   Linguagens de Programação: C++, Python e R;
+-   Desenvolvimento de *bots*;
+-   Desenvolvimento de projetos com metodologia *Hands on*.
